@@ -1,6 +1,6 @@
 {
   "name": "pokemon-lite",
-  "home": "https://deoruchi.github.io/pokedex-lite/",
+  "homepage": "https://deoruchi.github.io/pokedex-lite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
